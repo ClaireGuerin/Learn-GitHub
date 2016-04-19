@@ -10,6 +10,7 @@ Created on Fri Apr 15 11:47:49 2016
 parents, babies = (1, 1)
 while babies < 100:
     print 'This generation has {0} babies'.format(babies)
+    print 'and this generation also has {0} parents'.format(parents)
     parents, babies = (babies, parents + babies)
-    
+
 # this is a comment to make a change. 
