@@ -5,3 +5,4 @@
 ### Author: Claire
 
 # Test to see whether Git understands R script.
+# Conclusion: YES IT DOES!
